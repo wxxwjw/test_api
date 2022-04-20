@@ -1,0 +1,60 @@
+{
+  "uid" : "ed29a4f9d0caf350",
+  "name" : "test_01_mashang[百里]",
+  "fullName" : "test_api.TestApi#test_01_mashang",
+  "historyId" : "21c22f10539542cdd84e237850762b31",
+  "time" : {
+    "start" : 1650266939979,
+    "stop" : 1650266939979,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "GaoJie"
+  }, {
+    "name" : "thread",
+    "value" : "9028-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "caseinfo",
+    "value" : "'百里'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed29a4f9d0caf350.json",
+  "parameterValues" : [ "'百里'" ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GaoJie",
+    "children" : [ {
+      "name" : "9028-MainThread",
+      "children" : [ {
+        "name" : "test_01_mashang[百里]",
+        "uid" : "ed29a4f9d0caf350",
+        "parentUid" : "e399d503d6b6f43c9005e44bef551506",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650266939979,
+          "stop" : 1650266939979,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'百里'" ]
+      }, {
+        "name" : "test_01_mashang[北凡]",
+        "uid" : "15fc8c68cfd0f643",
+        "parentUid" : "e399d503d6b6f43c9005e44bef551506",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650266939986,
+          "stop" : 1650266939986,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'北凡'" ]
+      }, {
+        "name" : "test_01_mashang[凡]",
+        "uid" : "a19ea653a148224f",
+        "parentUid" : "e399d503d6b6f43c9005e44bef551506",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650266939986,
+          "stop" : 1650266939986,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'凡'" ]
+      } ],
+      "uid" : "e399d503d6b6f43c9005e44bef551506"
+    } ],
+    "uid" : "ded0104ef1a5a3a5ea0c3d761613ecf8"
+  } ]
+}
